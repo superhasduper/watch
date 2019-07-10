@@ -1,2 +1,2 @@
 # watch
-It is 
+It is a watch concept
